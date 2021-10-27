@@ -1,4 +1,6 @@
-#Database should store login, password and token issued to user during the authentication
+Database should store login, password and token issued to user during the authentication
+
+
 
 -Installation:
 pip install flask
